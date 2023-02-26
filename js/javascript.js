@@ -136,7 +136,7 @@ const calcularCostos=(pasajeros)=>{
 const imprimirReserva = ()=>{
     console.log(`******  RESERVA Nro${cantReservas} ******`);
     console.log(`A nombre de: ${nombreHuesped}`);
-    console.log(`Cantidad de Huéspedes ${huespedes} Noches`);
+    console.log(`Cantidad de Huéspedes ${huespedes}`);
     console.log(`Fecha de Ingreso: ${fechaIn}`);
     console.log(`Fecha de Egreso: ${fechaOut}`);
     console.log(`Cantidad de Noches Contratadas: ${estadia}`);
